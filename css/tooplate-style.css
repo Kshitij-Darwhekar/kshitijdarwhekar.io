@@ -517,6 +517,8 @@ b, strong {
   .navbar-expand-sm .navbar-nav .nav-link {
     padding: 3px 20px;
   }
+ .social-links .li {
+	 padding: 0 10px;
 
 }
 @media (max-width: 580px) {
