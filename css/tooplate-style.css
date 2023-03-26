@@ -465,6 +465,7 @@ b, strong {
   color: #ffc200;
 }
 
+
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
@@ -504,6 +505,7 @@ b, strong {
 
   .animated-item {
     font-size: 28px;
+    min-width: 600px;
   }
 
   .navbar-collapse {
@@ -514,6 +516,10 @@ b, strong {
 
   .navbar-expand-sm .navbar-nav .nav-link {
     padding: 3px 20px;
+  }
+
+  .social-links li {
+    padding: 0 10px;
   }
 }
 @media (max-width: 580px) {
