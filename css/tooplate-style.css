@@ -50,6 +50,12 @@ a:hover {
   font-size: 40px;
 }
 
+.navbar-brand .me{
+border-radius: 50%;
+width:40px;
+lenght:40px;
+}
+
 p {
   font-size: 18px;
   font-weight: 300;
